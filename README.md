@@ -3,7 +3,7 @@
 ## 목차/Table of Contents
 
 1. Programming
-   1. Python Programming
+   1. [!Python Programming](https://github.com/KERT-core/pandoraBox/blob/master/Programming/python/README.md)
 2. Media Improvements
    1. Youtube-dl Custom
 3. Libraries
